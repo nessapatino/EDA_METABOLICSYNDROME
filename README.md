@@ -1,4 +1,4 @@
-![](src\img\20220318-Sindrome-Metabolico-762x294.jpg)
+![](img\20220318-Sindrome-Metabolico-762x294.jpg)
 
 # Análisis Exploratorio de Datos sobre Síndrome Metabólico
 
